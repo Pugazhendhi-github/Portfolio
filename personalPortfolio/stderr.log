@@ -1,0 +1,36 @@
+/usr/local/lsws/fcgi-bin/lswsgi_wrapper: line 18: /opt/alt/python311/bin/lswsgi: No such file or directory
+/usr/local/lsws/fcgi-bin/lswsgi_wrapper: line 18: /opt/alt/python311/bin/lswsgi: No such file or directory
+/usr/local/lsws/fcgi-bin/lswsgi_wrapper: line 18: /opt/alt/python311/bin/lswsgi: No such file or directory
+/usr/local/lsws/fcgi-bin/lswsgi_wrapper: line 18: /opt/alt/python311/bin/lswsgi: No such file or directory
+/usr/local/lsws/fcgi-bin/lswsgi_wrapper: line 18: /opt/alt/python311/bin/lswsgi: No such file or directory
+/usr/local/lsws/fcgi-bin/lswsgi_wrapper: line 18: /opt/alt/python311/bin/lswsgi: No such file or directory
+/usr/local/lsws/fcgi-bin/lswsgi_wrapper: line 18: /opt/alt/python311/bin/lswsgi: No such file or directory
+/usr/local/lsws/fcgi-bin/lswsgi_wrapper: line 18: /opt/alt/python311/bin/lswsgi: No such file or directory
+/usr/local/lsws/fcgi-bin/lswsgi_wrapper: line 18: /opt/alt/python311/bin/lswsgi: No such file or directory
+/usr/local/lsws/fcgi-bin/lswsgi_wrapper: line 18: /opt/alt/python311/bin/lswsgi: No such file or directory
+/usr/local/lsws/fcgi-bin/lswsgi_wrapper: line 18: /opt/alt/python311/bin/lswsgi: No such file or directory
+Not Found: /admin
+Not Found: /favicon.ico
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+[UID:2757][24314] Child process with pid: 24447 was killed by signal: 15, core dumped: no
+[UID:2757][2518] Child process with pid: 2709 was killed by signal: 15, core dumped: no
+[UID:2757][20406] Child process with pid: 20538 was killed by signal: 15, core dumped: no
+[UID:2757][28618] Child process with pid: 28810 was killed by signal: 15, core dumped: no
+[UID:2757][23048] Child process with pid: 23192 was killed by signal: 15, core dumped: no
+[UID:2757][29435] Child process with pid: 29610 was killed by signal: 15, core dumped: no
+[UID:2757][14242] Child process with pid: 14397 was killed by signal: 15, core dumped: no
+[UID:2757][8913] Child process with pid: 9072 was killed by signal: 15, core dumped: no
+[UID:2757][7355] Child process with pid: 7523 was killed by signal: 15, core dumped: no
+[UID:2757][9918] Child process with pid: 10069 was killed by signal: 15, core dumped: no
+[UID:2757][29010] Child process with pid: 29593 was killed by signal: 15, core dumped: no
+[UID:2757][26384] Child process with pid: 26557 was killed by signal: 15, core dumped: no
+[UID:2757][17054] Child process with pid: 17636 was killed by signal: 15, core dumped: no
+[UID:2757][20908] Child process with pid: 21058 was killed by signal: 15, core dumped: no
+[UID:2757][13713] Child process with pid: 13835 was killed by signal: 15, core dumped: no
+[UID:2757][932] Child process with pid: 1572 was killed by signal: 15, core dumped: no

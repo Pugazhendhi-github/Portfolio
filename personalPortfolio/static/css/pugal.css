@@ -1,0 +1,51 @@
+*{
+    container: 50px;
+}
+
+body{
+    .poppins-bold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+}
+
+nav li:hover{
+    color: orangered;
+
+}
+.name{
+    padding-left: 100px;
+    padding-top: 200px;
+}
+.bg_de{
+    margin-top: 100px;
+    background-image: url("../images/paralex.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 500px;
+    text-align: start;
+}
+footer{
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title{
+    padding: 15px;
+    color: blue;
+}
+
+.con_de{
+    background-color: antiquewhite;
+    padding: 90px;
+}
+
+.con_fo{
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+.imageAboutPage {
+    width: 100%;
+}
